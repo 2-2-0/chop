@@ -60,32 +60,25 @@ All methods use an element id (div_id), and some require a parameter as well (pa
 
 
 ### Position
-changeTop (div_id, param);
-
-changeBottom (div_id, param);
-
-changeLeft (div_id, param);
-
-changeRight (div_id, param);
+- changeTop (div_id, param);
+- changeBottom (div_id, param);
+- changeLeft (div_id, param);
+- changeRight (div_id, param);
 
 
 ### Shape
-changeWidth (div_id, param);
-
-changeHeight (div_id, param);
-
-changeMinHeight (div_id, param);
+- changeWidth (div_id, param);
+- changeHeight (div_id, param);
+- changeMinHeight (div_id, param);
 
 
 ### DIV related
-scrollToDiv (div_id);
+- scrollToDiv (div_id);
 
 ### Auxiliary methods
-swapTop (div_id, pos_a, pos_b);
-
-swapLeft (div_id, pos_a, pos_b);
-
-toggleDisplay (div_id);
+- swapTop (div_id, pos_a, pos_b);
+- swapLeft (div_id, pos_a, pos_b);
+- toggleDisplay (div_id);
 
 
 
